@@ -1,17 +1,12 @@
 # 🧮 Simple Calculator - HTML, CSS & JavaScript
 
-This is a basic Calculator web app built using **HTML**, **CSS**, and **JavaScript**. It performs simple arithmetic operations such as **addition**, **subtraction**, **multiplication**, and **division**.
-
----
+This is a basic Calculator web app built using **HTML**, **CSS**, and **JavaScript**. It performs simple arithmetic operations such as **addition**, **subtraction**, **multiplication**, and **division**
 
 ## 🔧 Features
 
 - Responsive and user-friendly interface
 - Basic arithmetic operations
 - Clean and simple layout
-- Runs directly in any browser (no installation needed)
-
----
 
 ## 📁 Files Included
 
@@ -37,12 +32,6 @@ This is a basic Calculator web app built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 📸 Preview
-
-> *(You can add a screenshot here later if you want)*
-
----
-
 ## 🛠️ Future Improvements (Optional)
 
 - Add keyboard support
@@ -53,7 +42,8 @@ This is a basic Calculator web app built using **HTML**, **CSS**, and **JavaScri
 
 ## 🧑‍💻 Author
 
-Made with 💻 by [Your Name]
+Made with 💻 by
+D.Renuka Padmavathi 
 
 ---
 
