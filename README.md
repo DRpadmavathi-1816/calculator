@@ -14,7 +14,7 @@ This is a basic Calculator web app built using **HTML**, **CSS**, and **JavaScri
 - `style.css` – Styling for the calculator
 - `script.js` – JavaScript logic for button clicks and calculations
 
---
+
 
 ## 🛠️ Future Improvements (Optional)
 
@@ -22,15 +22,15 @@ This is a basic Calculator web app built using **HTML**, **CSS**, and **JavaScri
 - Add scientific calculator functions
 - Store calculation history
 
----
+
 
 ## 🧑‍💻 Author
 
 Made with 💻 by
-Name     D.Renuka Padmavathi 
-Company. Micro IT 
+- Name    : D.Renuka Padmavathi 
+- Company : Micro IT 
 
----
+
 
 ## 📜 License
 
